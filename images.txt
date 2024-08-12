@@ -1,5 +1,1 @@
 pod2daemon-flexvol:v3.20.6
-node:v3.20.6
-cni:v3.20.6
-kube-controllers:v3.20.6
-node:v3.20.6
