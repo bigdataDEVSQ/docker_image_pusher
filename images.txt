@@ -1,1 +1,1 @@
-docker.elastic.co/kibana/kibana:7.17.22
+postgres:15.3
